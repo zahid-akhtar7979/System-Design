@@ -1,0 +1,11 @@
+Design A Bird with 5 birds
+1.Pigeon
+2.Crow
+3.Ostrich
+4.Penguin
+5.Sparrow
+
+Requirements:
+1.Penguin and Ostrich don't fly else all birds fly
+2.Crow and Sparrow fly in same way
+3.Every bird can eat and makeSound
